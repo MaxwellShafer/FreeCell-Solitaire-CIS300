@@ -54,8 +54,7 @@
             this.uxMoveAllHome});
             this.uxMenuBar.Location = new System.Drawing.Point(0, 0);
             this.uxMenuBar.Name = "uxMenuBar";
-            this.uxMenuBar.Padding = new System.Windows.Forms.Padding(6, 2, 0, 2);
-            this.uxMenuBar.Size = new System.Drawing.Size(1200, 35);
+            this.uxMenuBar.Size = new System.Drawing.Size(1200, 37);
             this.uxMenuBar.TabIndex = 0;
             this.uxMenuBar.Text = "menuStrip1";
             // 
